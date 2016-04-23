@@ -1,2 +1,5 @@
-# JAVA_2016
-Mi primer repositorio en  GitHub
+PROGRAMADOR  JAVA_2016
+
+-Mi primer repositorio en  GitHub
+-CURSO CON GUSTAVO CORONEL
+-PRONOT SERE UN ESPECIALISTA EN GIT
